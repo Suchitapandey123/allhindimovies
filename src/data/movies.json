@@ -1,0 +1,869 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Sholay",
+      "year": 1975,
+      "rating": 4.8,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035020/download_otnoyb.jpg",
+      "duration": "3h 24m",
+      "description": "Sholay (1975) is a legendary Bollywood action adventure film that tells the gripping story of two ex-convicts, Jai and Veeru, hired by a retired police officer to capture the ruthless bandit Gabbar Singh. Set in the rural village of Ramgarh, the film is a powerful blend of drama, friendship, heroism, and revenge. Directed by Ramesh Sippy and featuring iconic performances by Amitabh Bachchan, Dharmendra, Hema Malini, and Amjad Khan, Sholay became a cultural phenomenon in Indian cinema. Its unforgettable dialogues, compelling characters, and epic storyline have made it one of the most influential and beloved films in Bollywood history.",
+      "director": "Ramesh Sippy",
+      "cast": [
+        "Amitabh Bachchan",
+        "Dharmendra",
+        "Hema Malini"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035031/images_u8svzw.webp",
+      "trailer": "https://www.youtube.com/watch?v=fefaxq2nXoE",
+      "meta": {
+        "title": [
+          "Sholay (1975)",
+          "Watch Online",
+          "Bollywood Classic",
+          "AllHindiMovies"
+        ],
+        "description": "An epic tale of courage and friendship starring Amitabh Bachchan, Dharmendra, and Hema Malini. Directed by Ramesh Sippy.",
+        "keywords": "Sholay movie, Amitabh Bachchan, Dharmendra, Bollywood classic, watch Sholay online"
+      }
+    },
+    {
+      "id": 2,
+      "title": "3 Idiots",
+      "year": 2009,
+      "rating": 4.9,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035096/download_bc6paf.jpg",
+      "duration": "2h 50m",
+      "description": "3 Idiots (2009) is a heartwarming and thought provoking Bollywood comedy drama that follows the journey of three engineering students Rancho, Farhan, and Raju navigating the pressures of a rigid academic system. Through humor and emotion, the film challenges conventional definitions of success and encourages following one's passion. Directed by Rajkumar Hirani and starring Aamir Khan, R. Madhavan, Sharman Joshi, and Kareena Kapoor, 3 Idiots delivers powerful messages about friendship, innovation, and the flaws in India's education system. With memorable quotes like \"All is well\" and a deeply resonant storyline, it remains one of the most loved and impactful films in Indian cinema.",
+      "director": "Rajkumar Hirani",
+      "cast": [
+        "Aamir Khan",
+        "R. Madhavan",
+        "Sharman Joshi",
+        "Kareena Kapoor"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035101/images_vintcj.webp",
+      "trailer": "https://www.youtube.com/watch?v=jWd-D9ydlFE",
+      "meta": {
+        "title": [
+          "3 Idiots (2009)",
+          "Watch Online",
+          "Hindi Comedy Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A story of friendship, college life and following your passion. Starring Aamir Khan, R. Madhavan, Kareena Kapoor. Directed by Rajkumar Hirani.",
+        "keywords": "3 Idiots movie, Aamir Khan, college life movie, watch 3 idiots online"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Dangal",
+      "year": 2016,
+      "rating": 4.8,
+      "genre": [
+        "Drama",
+        "Sport",
+        "Biography"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035171/download_ypzgrp.jpg",
+      "duration": "2h 41m",
+      "description": "Dangal (2016) is an inspiring Hindi biographical sports drama based on the true story of wrestler Mahavir Singh Phogat and his daughters, Geeta and Babita. Determined to fulfill his dream of winning gold for India, Mahavir trains his daughters in wrestling, defying social norms and overcoming numerous obstacles. Directed by Nitesh Tiwari and starring Aamir Khan, Fatima Sana Shaikh, and Sanya Malhotra, Dangal highlights themes of perseverance, gender equality, and family bonds. The film’s powerful performances, emotional depth, and thrilling wrestling sequences made it a massive critical and commercial success, earning acclaim both in India and internationally.\r",
+      "director": "Nitesh Tiwari",
+      "cast": [
+        "Aamir Khan",
+        "Fatima Sana Shaikh",
+        "Sanya Malhotra"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035185/images_dx2pse.webp",
+      "trailer": "https://www.youtube.com/watch?v=x_7YlGv9u1g",
+      "meta": {
+        "title": [
+          "Dangal (2016)",
+          "Watch Online",
+          "Hindi Sports Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A powerful true story of Mahavir Singh Phogat training his daughters to become champion wrestlers. Starring Aamir Khan.",
+        "keywords": "Dangal movie, Aamir Khan, wrestling movie, watch Dangal online"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Queen",
+      "year": 2013,
+      "rating": 4.4,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035228/download_clfdh1.jpg",
+      "duration": "2h 26m",
+      "description": "Queen (2013) is a refreshing coming of age Hindi film that follows the journey of Rani, a shy and sheltered girl from Delhi, who decides to go on her honeymoon alone after her fiancé calls off their wedding. As she travels across Paris and Amsterdam, Rani discovers independence, confidence, and a new outlook on life. Directed by Vikas Bahl and featuring a critically acclaimed performance by Kangana Ranaut, Queen is a heartfelt story of self discovery, empowerment, and personal growth. With its relatable narrative, strong female lead, and lighthearted moments, the film became a landmark in modern Indian cinema.\r",
+      "director": "Vikas Bahl",
+      "cast": [
+        "Kangana Ranaut",
+        "Rajkummar Rao",
+        "Lisa Haydon"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035233/images_mzq4as.webp",
+      "trailer": "https://www.youtube.com/watch?v=M_HP8xgXhBU",
+      "meta": {
+        "title": [
+          "Queen (2013)",
+          "Watch Online",
+          "Hindi Comedy Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A heartwarming journey of self discovery starring Kangana Ranaut. Directed by Vikas Bahl.",
+        "keywords": "Queen movie, Kangana Ranaut, solo trip movie, watch Queen online"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Zindagi Na Milegi Dobara",
+      "year": 2011,
+      "rating": 4.5,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Adventure"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035333/download_d8ffao.jpg",
+      "duration": "2h 35m",
+      "description": "Zindagi Na Milegi Dobara (2011) is a vibrant Hindi film that explores friendship, self discovery, and living life to the fullest. The story follows three childhood friends, Arjun, Kabir, and Imran, on a road trip across Spain, where they confront personal fears, mend old wounds, and embrace new experiences. Directed by Zoya Akhtar and starring Hrithik Roshan, Farhan Akhtar, Abhay Deol, and Katrina Kaif, the film beautifully blends adventure, emotion, and poetry. With breathtaking visuals, a soulful soundtrack, and life affirming themes, ZNMD has become a modern classic that inspires viewers to cherish every moment and follow their hearts.\r",
+      "director": "Zoya Akhtar",
+      "cast": [
+        "Hrithik Roshan",
+        "Farhan Akhtar",
+        "Abhay Deol",
+        "Katrina Kaif"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035338/images_b97pfu.webp",
+      "trailer": "https://youtu.be/5VMLe9c-mpg",
+      "meta": {
+        "title": [
+          "Zindagi Na Milegi Dobara (2011)",
+          "Watch Online",
+          "Hindi Travel Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A journey of friendship, love and life lessons during a road trip across Spain. Directed by Zoya Akhtar.",
+        "keywords": "ZNMD movie, Hrithik Roshan, road trip movie, watch Zindagi Na Milegi Dobara online"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Lagaan",
+      "year": 2001,
+      "rating": 4.6,
+      "genre": [
+        "Drama",
+        "Sport"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035393/download_rzqiqb.jpg",
+      "duration": "3h 44m",
+      "description": "Lagaan (2001) is an epic Hindi sports drama set in British ruled India, where a drought stricken village faces unbearable land taxes. Led by the courageous Bhuvan, the villagers challenge the British officers to a high stakes cricket match to avoid paying lagaan (tax). Directed by Ashutosh Gowariker and starring Aamir Khan, the film blends history, patriotism, and sportsmanship into a powerful narrative. With its gripping storyline, rich characters, and rousing music by A.R. Rahman, Lagaan became a cinematic milestone. It was nominated for Best Foreign Language Film at the Oscars and remains one of Indian cinema’s most iconic and inspiring films.",
+      "director": "Ashutosh Gowariker",
+      "cast": [
+        "Aamir Khan",
+        "Gracy Singh",
+        "Rachel Shelley"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035398/images_zslhrt.webp",
+      "trailer": "https://youtu.be/dSqR_ymnhp8",
+      "meta": {
+        "title": [
+          "Lagaan (2001)",
+          "Watch Online",
+          "Hindi Sports Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A historic drama where villagers challenge British rulers in a game of cricket to fight injustice. Starring Aamir Khan.",
+        "keywords": "Lagaan movie, Aamir Khan, cricket movie, watch Lagaan online"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Kabir Singh",
+      "year": 2019,
+      "rating": 4.2,
+      "genre": [
+        "Romance",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035448/images_mh81ut.webp",
+      "duration": "2h 55m",
+      "description": "Kabir Singh (2019) is an intense Hindi romantic drama that follows the turbulent life of a brilliant but hot headed surgeon whose world spirals out of control after losing the woman he loves. Directed by Sandeep Reddy Vanga and starring Shahid Kapoor and Kiara Advani, the film explores themes of obsessive love, self destruction, and redemption. Kabir’s raw emotions, flawed personality, and passionate love story sparked both acclaim and controversy. Despite polarized reviews, the film became a major box office success, driven by Shahid Kapoor’s powerful performance and a soulful soundtrack. Kabir Singh remains a widely discussed and influential modern love story.",
+      "director": "Sandeep Reddy Vanga",
+      "cast": [
+        "Shahid Kapoor",
+        "Kiara Advani"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035458/download_u7h6fp.webp",
+      "trailer": "https://www.youtube.com/watch?v=RiANSSgCuJk",
+      "meta": {
+        "title": [
+          "Kabir Singh (2019)",
+          "Watch Online",
+          "Hindi Romance Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A passionate love story starring Shahid Kapoor and Kiara Advani. Directed by Sandeep Reddy Vanga.",
+        "keywords": "Kabir Singh movie, Shahid Kapoor, love story, watch Kabir Singh online"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "rating": 4.6,
+      "genre": [
+        "Adventure",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035500/download_pq4h6p.jpg",
+      "duration": "2h 43m",
+      "description": "Bajrangi Bhaijaan (2015) is a heartwarming Hindi drama that tells the story of Pavan, a devout and kind hearted man who embarks on an emotional journey to reunite a lost mute Pakistani girl with her family across the border. Directed by Kabir Khan and starring Salman Khan, Harshaali Malhotra, and Kareena Kapoor, the film beautifully portrays themes of humanity, compassion, and unity beyond borders. With its emotional depth, powerful performances, and memorable moments, Bajrangi Bhaijaan won hearts across the globe. It became a massive critical and commercial success, praised for its message of love, peace, and universal brotherhood.\r",
+      "director": "Kabir Khan",
+      "cast": [
+        "Salman Khan",
+        "Harshaali Malhotra",
+        "Kareena Kapoor"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035506/download_cq5omv.webp",
+      "trailer": "https://www.youtube.com/watch?v=4nwAra0mz_Q",
+      "meta": {
+        "title": [
+          "Bajrangi Bhaijaan (2015)",
+          "Watch Online",
+          "Hindi Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A heartfelt cross border story of compassion starring Salman Khan. Directed by Kabir Khan.",
+        "keywords": "Bajrangi Bhaijaan movie, Salman Khan, India Pakistan movie, watch Bajrangi Bhaijaan online"
+      }
+    },
+    {
+      "id": 9,
+      "title": "PK",
+      "year": 2014,
+      "rating": 4.5,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035545/download_p7ulqx.jpg",
+      "duration": "2h 33m",
+      "description": "PK (2014) is a bold and thought provoking Hindi satirical comedy that explores religion, faith, and societal norms through the eyes of an innocent alien stranded on Earth. Played brilliantly by Aamir Khan, PK questions blind beliefs and rituals as he searches for his lost communication device. Directed by Rajkumar Hirani and co-starring Anushka Sharma, Sushant Singh Rajput, and Boman Irani, the film uses humor and emotion to spark meaningful conversations on religious dogma and human behavior. With its powerful message, memorable dialogues, and soulful music, PK became a major box office hit and a cultural phenomenon in Indian cinema.",
+      "director": "Rajkumar Hirani",
+      "cast": [
+        "Aamir Khan",
+        "Anushka Sharma",
+        "Saurabh Shukla"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035551/images_prmvg3.webp",
+      "trailer": "https://www.youtube.com/watch?v=SOXWc32k4zA",
+      "meta": {
+        "title": [
+          "PK (2014)",
+          "Watch Online",
+          "Hindi Comedy Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A thought provoking comedy starring Aamir Khan that challenges blind faith. Directed by Rajkumar Hirani.",
+        "keywords": "PK movie, Aamir Khan, religious satire, watch PK online"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Barfi!",
+      "year": 2012,
+      "rating": 4.4,
+      "genre": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035610/download_pjbhzg.jpg",
+      "duration": "2h 31m",
+      "description": "Barfi! (2012) is a charming Hindi romantic comedy drama that tells the story of Barfi, a deaf mute young man with a zest for life, and his relationships with two women, Shruti and Jhilmil, an autistic girl. Set in the 1970s, the film explores love, innocence, and acceptance beyond societal norms and physical limitations. Directed by Anurag Basu and featuring stellar performances by Ranbir Kapoor, Priyanka Chopra, and Ileana D'Cruz, Barfi! is celebrated for its heartfelt storytelling, soulful music, and poetic visuals. The film earned critical acclaim and numerous awards, standing out as one of the most tender and emotionally resonant films in Bollywood.",
+      "director": "Anurag Basu",
+      "cast": [
+        "Ranbir Kapoor",
+        "Priyanka Chopra",
+        "Ileana D'Cruz"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035619/images_vn9rec.webp",
+      "trailer": "https://www.youtube.com/watch?v=nQ3FYUgSjC8",
+      "meta": {
+        "title": [
+          "Barfi! (2012)",
+          "Watch Online",
+          "Romantic Comedy Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A whimsical love story starring Ranbir Kapoor and Priyanka Chopra. Directed by Anurag Basu.",
+        "keywords": "Barfi movie, Ranbir Kapoor, disability romance, watch Barfi online"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Paan Singh Tomar",
+      "year": 2012,
+      "rating": 4.4,
+      "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035655/download_tgj1i8.jpg",
+      "duration": "2h 15m",
+      "description": "Paan Singh Tomar (2012) is a gripping Hindi biographical drama based on the real life story of an Indian Army soldier and national level athlete who becomes a feared dacoit. Directed by Tigmanshu Dhulia and featuring a powerful performance by Irrfan Khan, the film traces Tomar's transformation from a celebrated steeplechase runner to a rebel, driven by injustice and systemic corruption. Set in the heartland of India, Paan Singh Tomar explores themes of honor, betrayal, and survival. Its raw storytelling, intense performances, and realistic portrayal of rural India earned it national acclaim and the National Film Award for Best Feature Film.",
+      "director": "Tigmanshu Dhulia",
+      "cast": [
+        "Irrfan Khan",
+        "Mahie Gill"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035660/images_sjdhmh.webp",
+      "trailer": "https://www.youtube.com/watch?v=TT--NbNqiHE",
+      "meta": {
+        "title": [
+          "Paan Singh Tomar (2012)",
+          "Watch Online",
+          "Hindi Biopic",
+          "AllHindiMovies"
+        ],
+        "description": "A soldier turned rebel in this award winning biopic starring Irrfan Khan.",
+        "keywords": "Paan Singh Tomar movie, Irrfan Khan, true story, watch Paan Singh Tomar online"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Andhadhun",
+      "year": 2018,
+      "rating": 4.6,
+      "genre": [
+        "Thriller",
+        "Mystery",
+        "Crime"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035757/download_dpgyev.jpg",
+      "duration": "2h 19m",
+      "description": "Andhadhun (2018) is a dark comedy thriller that revolves around a blind pianist who unwittingly becomes involved in a series of murders and cover ups. Directed by Sriram Raghavan and starring Ayushmann Khurrana, Tabu, and Radhika Apte, the film keeps audiences on edge with its unpredictable twists and razor sharp suspense. Blending crime, mystery, and black humor, Andhadhun explores deception, morality, and survival in the most unexpected situations. With brilliant performances, a gripping narrative, and an innovative soundtrack, the film became a critical and commercial success. It won multiple awards, including the National Film Award for Best Actor and Best Hindi Feature Film.",
+      "director": "Sriram Raghavan",
+      "cast": [
+        "Ayushmann Khurrana",
+        "Tabu",
+        "Radhika Apte"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035763/images_eijs8u.webp",
+      "trailer": "https://www.youtube.com/watch?v=2iVYI99VGaw",
+      "meta": {
+        "title": [
+          "Andhadhun (2018)",
+          "Watch Online",
+          "Hindi Crime Thriller",
+          "AllHindiMovies"
+        ],
+        "description": "A gripping thriller about a blind pianist starring Ayushmann Khurrana. Directed by Sriram Raghavan.",
+        "keywords": "Andhadhun movie, Ayushmann Khurrana, crime thriller, watch Andhadhun online"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Swades",
+      "year": 2004,
+      "rating": 4.5,
+      "genre": "Drama",
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035871/download_qxjkbc.jpg",
+      "duration": "3h 05m",
+      "description": "Swades (2004) is a deeply moving Hindi drama about an NRI NASA scientist, Mohan Bhargava, who returns to India in search of his childhood caretaker and ends up rediscovering his roots. Directed by Ashutosh Gowariker and starring Shah Rukh Khan in one of his most powerful roles, the film highlights rural India's challenges while inspiring themes of change, responsibility, and patriotism. Swades is lauded for its heartfelt narrative, soulful music by A.R. Rahman, and social message. Though not a major box office hit initially, it gained cult status for its sincerity, emotional depth, and progressive take on Indian identity.",
+      "director": "Ashutosh Gowariker",
+      "cast": [
+        "Shah Rukh Khan",
+        "Gayatri Joshi"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754035873/images_uusvls.webp",
+      "trailer": "https://www.youtube.com/watch?v=vc7AZNWvs0M",
+      "meta": {
+        "title": [
+          "Swades (2004)",
+          "Watch Online",
+          "Inspirational Drama",
+          "AllHindiMovies"
+        ],
+        "description": "An emotional return to roots starring Shah Rukh Khan. Directed by Ashutosh Gowariker.",
+        "keywords": "Swades movie, Shah Rukh Khan, rural India movie, watch Swades online"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Band Baaja Baaraat",
+      "year": 2010,
+      "rating": 4.3,
+      "genre": [
+        "Romance",
+        "Comedy"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754036436/download_vrjwt8.jpg",
+      "duration": "2h 20m",
+      "description": "Band Baaja Baaraat (2010) is a lively romantic comedy that follows two young entrepreneurs, Shruti and Bittoo, who start a wedding planning business in Delhi. As their professional success grows, so does the complexity of their personal relationship. Directed by Maneesh Sharma and starring Anushka Sharma and Ranveer Singh in his debut, the film captures the vibrant energy of Indian weddings with authenticity and charm. With its catchy music, sharp dialogues, and refreshing chemistry, Band Baaja Baaraat became a surprise hit. It resonated with young audiences and launched Ranveer Singh as one of Bollywood’s most dynamic new actors.",
+      "director": "Maneesh Sharma",
+      "cast": [
+        "Ranveer Singh",
+        "Anushka Sharma"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754036437/images_lazxun.webp",
+      "trailer": "https://www.youtube.com/watch?v=k67ErU7SeIE",
+      "meta": {
+        "title": [
+          "Band Baaja Baaraat (2010)",
+          "Watch Online",
+          "Romantic Comedy",
+          "AllHindiMovies"
+        ],
+        "description": "A colorful tale of love and entrepreneurship starring Ranveer Singh and Anushka Sharma.",
+        "keywords": "Band Baaja Baaraat movie, wedding business movie, watch Band Baaja Baaraat online"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Taare Zameen Par",
+      "year": 2007,
+      "rating": 4.8,
+      "genre": [
+        "Drama",
+        "Family"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754036544/download_owznax.jpg",
+      "duration": "2h 45m",
+      "description": "Taare Zameen Par (2007) is a heart touching drama that explores the world of a dyslexic child, Ishaan, who struggles with academics but possesses extraordinary artistic talent. Directed by Aamir Khan and featuring Darsheel Safary in a remarkable performance, the film sheds light on the education system’s neglect of individual learning needs. When a compassionate art teacher recognizes Ishaan’s potential, his life begins to change. With its emotional depth, beautiful storytelling, and impactful message about embracing differences, Taare Zameen Par won widespread acclaim and several awards. It remains one of Indian cinema’s most inspiring and socially relevant films.",
+      "director": "Aamir Khan",
+      "cast": [
+        "Darsheel Safary",
+        "Aamir Khan"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754036563/images_ymcxs0.webp",
+      "trailer": "https://www.youtube.com/watch?v=2LEyl7GGU38",
+      "meta": {
+        "title": [
+          "Taare Zameen Par (2007)",
+          "Watch Online",
+          "Family Drama",
+          "AllHindiMovies"
+        ],
+        "description": " A heartwarming story about child learning disorders. Directed by and starring Aamir Khan.",
+        "keywords": "Taare Zameen Par movie, dyslexia story, watch Taare Zameen Par online"
+      }
+    },
+    {
+      "id": 16,
+      "title": "Chak De! India",
+      "year": 2007,
+      "rating": 4.6,
+      "genre": [
+        "Sport",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754036656/download_vbj3zj.jpg",
+      "duration": "2h 33m",
+      "description": "Chak De! India (2007) is a powerful sports drama centered on Kabir Khan, a former hockey player who seeks redemption by coaching the Indian women's national hockey team. Played by Shah Rukh Khan, Kabir transforms a group of underdogs into champions while battling societal prejudice and internal team conflicts. Directed by Shimit Amin, the film celebrates teamwork, determination, and national pride. With its rousing dialogues, iconic soundtrack, and emotionally charged moments, Chak De! India became a cultural phenomenon. It redefined sports films in Bollywood and continues to inspire audiences with its message of unity, resilience, and belief in oneself.",
+      "director": "Shimit Amin",
+      "cast": [
+        "Shah Rukh Khan",
+        "Vidya Malvade"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754036683/images_wenlmu.webp",
+      "trailer": "https://www.youtube.com/watch?v=6a0-dSMWm5g",
+      "meta": {
+        "title": [
+          "Chak De! India (2007)",
+          "Watch Online",
+          "Sports Drama",
+          "AllHindiMovies"
+        ],
+        "description": " A triumphant sports film starring Shah Rukh Khan as a passionate coach.",
+        "keywords": "Chak De India movie, Shah Rukh Khan, women's hockey, watch Chak De online"
+      }
+    },
+    {
+      "id": 17,
+      "title": "Kahaani",
+      "year": 2012,
+      "rating": 4.5,
+      "genre": [
+        "Thriller",
+        "Mystery"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754036772/download_qm0xyo.jpg",
+      "duration": "2h 02m",
+      "description": "Kahaani (2012) is a gripping suspense thriller that follows Vidya Bagchi, a pregnant woman who travels to Kolkata in search of her missing husband. Directed by Sujoy Ghosh and featuring a powerful performance by Vidya Balan, the film keeps viewers on the edge with its clever twists, strong characters, and atmospheric setting. As Vidya uncovers secrets and navigates a maze of deception, the story takes unexpected turns leading to a shocking climax. Kahaani was praised for its tight screenplay, emotional depth, and feminist undertones, earning both critical and commercial success. It stands as one of Bollywood’s finest mystery thrillers.",
+      "director": "Sujoy Ghosh",
+      "cast": [
+        "Vidya Balan",
+        "Parambrata Chatterjee"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754036947/images_vqpmd4.webp",
+      "trailer": "https://www.youtube.com/watch?v=rsjamVgPoI8",
+      "meta": {
+        "title": [
+          "Kahaani (2012)",
+          "Watch Online",
+          "Hindi Thriller",
+          "AllHindiMovies"
+        ],
+        "description": "A gripping mystery thriller with a powerful performance by Vidya Balan.",
+        "keywords": "Kahaani movie, Vidya Balan, mystery thriller, watch Kahaani online"
+      }
+    },
+    {
+      "id": 18,
+      "title": "Munna Bhai M.B.B.S.",
+      "year": 2003,
+      "rating": 4.7,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754036974/download_a81njt.jpg",
+      "duration": "2h 36m",
+      "description": "Munna Bhai M.B.B.S. (2003) is a heartwarming comedy drama that tells the story of Munna, a lovable Mumbai gangster who enrolls in medical school to fulfill his father's dream. Directed by Rajkumar Hirani and starring Sanjay Dutt and Arshad Warsi, the film uses humor and emotion to challenge the rigidity of the healthcare system. Munna’s unconventional methods and his philosophy of “Jadoo Ki Jhappi” (magical hug) transform lives, blending comedy with a strong social message. Munna Bhai M.B.B.S. was a massive hit, launching a beloved film series and redefining Bollywood storytelling with its unique blend of satire, heart, and humanity.\r\n",
+      "director": "Rajkumar Hirani",
+      "cast": [
+        "Sanjay Dutt",
+        "Arshad Warsi",
+        "Boman Irani"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754036975/images_vayokx.webp",
+      "trailer": "https://www.youtube.com/watch?v=6f-EaUWCua0",
+      "meta": {
+        "title": [
+          "Munna Bhai M.B.B.S. (2003)",
+          "Watch Online",
+          "Comedy Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A heartwarming comedy with a social message starring Sanjay Dutt.",
+        "keywords": "Munna Bhai movie, Sanjay Dutt, medical comedy, watch Munna Bhai online"
+      }
+    },
+    {
+      "id": 19,
+      "title": "Haider",
+      "year": 2014,
+      "rating": 4.4,
+      "genre": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754037127/download_dzbsct.jpg",
+      "duration": "2h 44m",
+      "description": "Haider (2014) is a bold and haunting adaptation of Shakespeare’s Hamlet, set against the politically volatile backdrop of 1990s Kashmir. Directed by Vishal Bhardwaj and starring Shahid Kapoor in a career defining role, the film follows a young man who returns to Kashmir to find his missing father, only to uncover dark secrets involving betrayal, state violence, and personal vengeance. With powerful performances from Tabu, Kay Kay Menon, and Irrfan Khan, Haider explores themes of identity, grief, and morality. The film received critical acclaim for its gripping narrative, poetic dialogues, and unflinching portrayal of conflict and human emotion.\r\n",
+      "director": "Vishal Bhardwaj",
+      "cast": [
+        "Shahid Kapoor",
+        "Tabu",
+        "Kay Kay Menon"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754037129/images_vmauta.webp",
+      "trailer": "https://www.youtube.com/watch?v=ZmN_VSo8DOo",
+      "meta": {
+        "title": [
+          "Haider (2014)",
+          "Watch Online",
+          "Hindi Crime Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A Shakespearean tale of revenge set in Kashmir, starring Shahid Kapoor.",
+        "keywords": "Haider movie, Shakespeare adaptation, Kashmir conflict, watch Haider online"
+      }
+    },
+    {
+      "id": 20,
+      "title": "Black",
+      "year": 2005,
+      "rating": 4.7,
+      "genre": [
+        "Drama",
+        "Biography"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754037236/images_umtjw6.webp",
+      "duration": "2h 02m",
+      "description": "Black (2005) is an emotionally stirring drama inspired by the life of Helen Keller. Directed by Sanjay Leela Bhansali, the film stars Rani Mukerji as Michelle, a deaf & blind girl, and Amitabh Bachchan as her eccentric yet dedicated teacher. The story follows Michelle’s journey from isolation to empowerment, highlighting the triumph of the human spirit and the transformative power of education. With its stunning visuals, deeply emotional storytelling, and stellar performances, Black received immense critical acclaim. It won several national and international awards and is hailed as one of the most powerful and groundbreaking films in Indian cinema.",
+      "director": "Sanjay Leela Bhansali",
+      "cast": [
+        "Amitabh Bachchan",
+        "Rani Mukerji"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754037234/download_iba0rx.jpg",
+      "trailer": "https://www.youtube.com/watch?v=1lBPzx52YfY",
+      "meta": {
+        "title": [
+          "Black (2005)",
+          "Watch Online",
+          "Hindi Inspirational Drama",
+          "AllHindiMovies"
+        ],
+        "description": "An emotionally moving tale of triumph starring Amitabh Bachchan and Rani Mukerji.",
+        "keywords": "Black movie, blind & deaf student, inspiring drama, watch Black online"
+      }
+    },
+    {
+      "id": 21,
+      "title": "Gully Boy",
+      "year": 2019,
+      "rating": 4.3,
+      "genre": [
+        "Musical",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754039432/download_y3joon.jpg",
+      "duration": "2h 36m",
+      "description": "Gully Boy (2019) is a coming of age musical drama inspired by the lives of Mumbai street rappers Divine and Naezy. Directed by Zoya Akhtar and starring Ranveer Singh and Alia Bhatt, the film follows Murad, a young man from the slums, who rises against social odds to become a voice of the underground rap scene. With its pulsating soundtrack, raw performances, and gritty portrayal of class divide, Gully Boy struck a chord with youth across India. It won numerous accolades, including India’s official entry to the Oscars, and redefined the music and narrative landscape of modern Bollywood.",
+      "director": "Zoya Akhtar",
+      "cast": [
+        "Ranveer Singh",
+        "Alia Bhatt"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754039434/images_wldevr.webp",
+      "trailer": "https://www.youtube.com/watch?v=JfbxcD6biOk",
+      "meta": {
+        "title": [
+          "Gully Boy (2019)",
+          "Watch Online",
+          "Musical Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A journey of music, dreams and rebellion starring Ranveer Singh.",
+        "keywords": "Gully Boy movie, Indian rap movie, watch Gully Boy online"
+      }
+    },
+    {
+      "id": 22,
+      "title": "Article 15",
+      "year": 2019,
+      "rating": 4.4,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754039842/download_rpbmht.jpg",
+      "duration": "2h 10m",
+      "description": "Article 15 (2019) is a powerful crime drama inspired by true events and India’s constitutional Article 15, which prohibits discrimination based on caste, religion, or gender. Directed by Anubhav Sinha and starring Ayushmann Khurrana, the film follows a principled IPS officer who investigates the brutal murder of two Dalit girls in a rural village. As he uncovers systemic caste based oppression, the film exposes deep rooted social injustices. With its gritty storytelling, bold message, and intense performances, Article 15 sparked national conversations on caste discrimination and human rights, earning critical acclaim for its unflinching portrayal of uncomfortable societal truths.",
+      "director": "Anubhav Sinha",
+      "cast": [
+        "Ayushmann Khurrana",
+        "Kumud Mishra"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754039844/images_pddw8w.webp",
+      "trailer": "https://www.youtube.com/watch?v=HKOJY0cU63E",
+      "meta": {
+        "title": [
+          "Article 15 (2019)",
+          "Watch Online",
+          "Hindi Crime Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A bold film on social justice and caste issues in India.",
+        "keywords": "Article 15 movie, caste crime movie, watch Article 15 online"
+      }
+    },
+    {
+      "id": 23,
+      "title": "Pad Man",
+      "year": 2018,
+      "rating": 4.3,
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754039955/download_hc7sey.jpg",
+      "duration": "2h 20m",
+      "description": "Pad Man (2018) is a biographical comedy drama inspired by the life of Arunachalam Muruganantham, a social entrepreneur who revolutionized menstrual hygiene in rural India. Directed by R. Balki and starring Akshay Kumar, Sonam Kapoor, and Radhika Apte, the film tells the story of Lakshmikant, who challenges social taboos to create affordable sanitary pads for women. With humor, heart, and a strong social message, Pad Man raises awareness about women’s health and dignity while promoting gender equality. The film received both critical and commercial success and was instrumental in initiating conversations around menstrual hygiene in mainstream Indian cinema.",
+      "director": "R. Balki",
+      "cast": [
+        "Akshay Kumar",
+        "Radhika Apte",
+        "Sonam Kapoor"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754039958/images_kby5mn.webp",
+      "trailer": "https://www.youtube.com/watch?v=-K9ujx8vO_A",
+      "meta": {
+        "title": [
+          "Pad Man (2018)",
+          "Watch Online",
+          "Inspirational Biopic",
+          "AllHindiMovies"
+        ],
+        "description": "A socially impactful story on menstrual hygiene starring Akshay Kumar.",
+        "keywords": "Pad Man movie, menstrual health movie, watch Pad Man online"
+      }
+    },
+    {
+      "id": 24,
+      "title": "Super 30",
+      "year": 2019,
+      "rating": 4.4,
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754040003/download_gj2l9e.jpg",
+      "duration": "2h 34m",
+      "description": "Super 30 (2019) is an inspiring biographical drama based on the life of mathematician Anand Kumar, who dedicates his life to educating underprivileged students for India's toughest exam, the IIT-JEE. Hrithik Roshan portrays Anand in a heartfelt performance, capturing his struggles against systemic inequality, poverty, and corruption. Directed by Vikas Bahl, the film emphasizes the transformative power of education and perseverance. With emotional depth, motivational storytelling, and a strong social message, Super 30 celebrates unsung heroes who bring real change. It resonated with audiences across India and became a symbol of hope for students facing socio economic challenges.",
+      "director": "Vikas Bahl",
+      "cast": [
+        "Hrithik Roshan",
+        "Mrunal Thakur"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754040006/images_gqq4gr.webp",
+      "trailer": "https://www.youtube.com/watch?v=QpvEWVVnICE",
+      "meta": {
+        "title": [
+          "Super 30 (2019)",
+          "Watch Online",
+          "Hindi Educational Drama",
+          "AllHindiMovies"
+        ],
+        "description": "A powerful story of ambition and social upliftment starring Hrithik Roshan.",
+        "keywords": "Super 30 movie, Hrithik Roshan, education biopic, watch Super 30 online"
+      }
+    },
+    {
+      "id": 25,
+      "title": "Piku",
+      "year": 2015,
+      "rating": 4.2,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754040093/download_nbo7fy.jpg",
+      "duration": "2h 03m",
+      "description": "Piku (2015) is a delightful slice of life comedy drama that explores the beautiful yet complex bond between an aging, hypochondriac father and his independent, overburdened daughter. Directed by Shoojit Sircar, the film stars Deepika Padukone as Piku, Amitabh Bachchan as her eccentric father Bhaskor, and Irrfan Khan as the calm taxi company owner. Their road trip from Delhi to Kolkata becomes a journey of emotions, revelations, and tender humor. Piku is lauded for its brilliant performances, witty writing, and touching portrayal of aging, caregiving, and familial love. It’s a heartwarming tale that balances humor and emotion with elegant simplicity.",
+      "director": "Shoojit Sircar",
+      "cast": [
+        "Amitabh Bachchan",
+        "Deepika Padukone",
+        "Irrfan Khan"
+      ],
+      "language": "Hindi",
+      "backdrop": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1754040095/images_meftjp.webp",
+      "trailer": "https://www.youtube.com/watch?v=oeiKUlUUNQ8",
+      "meta": {
+        "title": [
+          "Piku (2015)",
+          "Watch Online",
+          "Hindi Family Comedy",
+          "AllHindiMovies"
+        ],
+        "description": "A touching story of a father & daughter bond featuring Amitabh Bachchan and Deepika Padukone.",
+        "keywords": "Piku movie, family road trip, Deepika Padukone, watch Piku online"
+      }
+    }
+  ],
+  "genres": [
+    {
+      "0": "A",
+      "1": "l",
+      "2": "l"
+    },
+    {
+      "0": "A",
+      "1": "c",
+      "2": "t",
+      "3": "i",
+      "4": "o",
+      "5": "n"
+    },
+    {
+      "0": "C",
+      "1": "o",
+      "2": "m",
+      "3": "e",
+      "4": "d",
+      "5": "y"
+    },
+    {
+      "0": "D",
+      "1": "r",
+      "2": "a",
+      "3": "m",
+      "4": "a"
+    },
+    {
+      "0": "R",
+      "1": "o",
+      "2": "m",
+      "3": "a",
+      "4": "n",
+      "5": "c",
+      "6": "e"
+    },
+    {
+      "0": "T",
+      "1": "h",
+      "2": "r",
+      "3": "i",
+      "4": "l",
+      "5": "l",
+      "6": "e",
+      "7": "r"
+    },
+    {
+      "0": "H",
+      "1": "o",
+      "2": "r",
+      "3": "r",
+      "4": "o",
+      "5": "r"
+    },
+    {
+      "0": "A",
+      "1": "d",
+      "2": "v",
+      "3": "e",
+      "4": "n",
+      "5": "t",
+      "6": "u",
+      "7": "r",
+      "8": "e"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "tvShows": [
+    {
+      "id": 1,
+      "title": "Scam 1992",
+      "year": "2020",
+      "rating": 4.9,
+      "genre": ["Drama", "Biography", "Crime"],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRRbeovwobdj3jIAFsbn-FTC89E-Km2LdQ5DWJ7-QtotidjgQhQ1ONHg&s=10",
+      "episodes": "10 Episodes"
+    },
+    {
+      "id": 2,
+      "title": "The Family Man",
+      "year": "2019",
+      "rating": 4.7,
+      "genre": ["Action", "Drama", "Thriller"],
+      "image": "https://i.ytimg.com/vi/ZnapjfATb6w/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDZIorJAeXLjt1UCwZFMcszvJZ4Sg",
+      "episodes": "20 Episodes"
+    },
+    {
+      "id": 3,
+      "title": "Arya",
+      "year": "2022",
+      "rating": 4.5,
+      "genre": ["Drama", "Crime"],
+      "image": "https://i.ytimg.com/vi/feph0szNFLI/maxresdefault.jpg",
+      "episodes": "8 Episodes"
+    },
+    {
+      "id": 4,
+      "title": "Mumbai Diaries 26/11",
+      "year": "2021",
+      "rating": 4.6,
+      "genre": ["Drama", "Thriller"],
+      "image": "/placeholder.svg?height=600&width=400",
+      "episodes": "8 Episodes"
+    }
+  ]
+}
