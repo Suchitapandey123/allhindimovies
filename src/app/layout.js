@@ -3,6 +3,7 @@ import Footer from "../componenet/footer/Footer" ;
 import "./globals.css";
 import Header from "../componenet/header/Header";
 
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -31,3 +32,4 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
